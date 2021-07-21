@@ -5,11 +5,6 @@
 - 🔭 I’m currently working on emulators.
 - 🌱 I’m currently learning security and hardware hacking.
 - 👯 I’m looking to collaborate on any [Rust] project.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ### Github stats
 [![Amajd Alsharafi's github stats](https://github-readme-stats.vercel.app/api?username=Amjad50&theme=react)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,11 +17,6 @@
     </br>
     <img alt="Amjad50/GB-emu" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad50&repo=GB-emu&theme=react"/>
 </details>
-
-### Connect with me
-[<img align="left" alt="amjad50.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AmjadAlsharafi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Amjad Alsharafi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 </br>
 
