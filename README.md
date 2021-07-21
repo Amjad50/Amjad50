@@ -15,7 +15,9 @@
 <details>
   <summary>:zap: Recent project</summary>
     </br>
-    <img alt="Amjad50/GB-emu" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad50&repo=GB-emu&theme=react"/>
+    <img alt="Amjad50/GB-emu" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad50&repo=PSX&theme=react"/>
+    </br>
+    <img alt="Amjad50/GB-emu" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad50&repo=mizu&theme=react"/>
 </details>
 
 </br>
