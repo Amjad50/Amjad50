@@ -1,7 +1,5 @@
 ### Hi there, I'm Amjad Alsharafi 👋
 
-## I'm a Student at [University of Malaya]!!
-
 - 🔭 I’m currently working on emulators.
 - 🌱 I’m currently learning security and hardware hacking.
 - 👯 I’m looking to collaborate on any [Rust] project.
@@ -22,7 +20,6 @@
 
 </br>
 
-[University of Malaya]: um.edu.my
 [Rust]: https://www.rust-lang.org/
 [website]: https://amjad50.github.io
 [twitter]: https://twitter.com/AmjadAlsharafi5
