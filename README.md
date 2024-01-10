@@ -9,18 +9,21 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amjad50&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Profile counter](https://komarev.com/ghpvc/?username=Amjad50&color=blue)
 
-<details>
-  <summary>:zap: Recent project</summary>
+<div>
+    <summary>:zap: Recent project</summary>
     </br>
-    <img alt="Amjad50/GB-emu" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad50&repo=PSX&theme=react"/>
+    <img alt="Amjad50/OS" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad50&repo=OS&theme=react"/>
+    </br>
+    <img alt="Amjad50/PSX" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad50&repo=PSX&theme=react"/>
     </br>
     <img alt="Amjad50/GB-emu" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad50&repo=mizu&theme=react"/>
-</details>
+</div>
 
 </br>
 
 [Rust]: https://www.rust-lang.org/
-[website]: https://amjad50.github.io
+[website]: https://amjad.alsharafi.dev/
 [twitter]: https://twitter.com/AmjadAlsharafi5
 [linkedin]: https://www.linkedin.com/in/amjad-alshrarafi-346956b2/
