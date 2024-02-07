@@ -14,11 +14,11 @@
 <div>
     <summary>:zap: Recent project</summary>
     </br>
-    <img alt="Amjad50/OS" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad50&repo=OS&theme=react"/>
+    <a href="https://github.com/Amjad50/Emerald"><img alt="Amjad50/OS" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad50&repo=Emerald&theme=react"/></a>
     </br>
-    <img alt="Amjad50/PSX" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad50&repo=PSX&theme=react"/>
+    <a href="https://github.com/Amjad50/Trapezoid"><img alt="Amjad50/PSX" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad50&repo=Trapezoid&theme=react"/></a>
     </br>
-    <img alt="Amjad50/GB-emu" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad50&repo=mizu&theme=react"/>
+    <a href="https://github.com/Amjad50/mizu"><img alt="Amjad50/GB-emu" src="https://github-readme-stats.vercel.app/api/pin/?username=Amjad50&repo=mizu&theme=react"/></a>
 </div>
 
 </br>
